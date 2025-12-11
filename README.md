@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad Furqanuddin
+# Hi 👋, I'm Mohammad Furqanuddin 
 
 **MERN Stack Developer | AI Integration | Final-Year CSE Student**
 
