@@ -1,9 +1,9 @@
-# Hi 👋, I'm Mohammad Furqanuddin 
+# Hi 👋, I'm Mohammad Furqanuddin  
 
-**MERN Stack Developer | AI Integration | Final-Year CSE Student**
+**MERN Stack Developer | AI Integration | Final-Year CSE Student**  
+Building intelligent, scalable, and user-centric applications using modern web technologies.
 
-I build full-stack web applications, integrate AI features, and focus on creating clean and user-friendly interfaces.  
-I have developed projects like **SkillForge (AI Career Planner)** and **Quizify (Online Quiz System)** using the MERN stack.
+I specialize in the **MERN stack** and have worked on AI-powered applications like **SkillForge** and **Quizify**, focusing on problem-solving, clean UI, and real-world functionality.
 
 ---
 
@@ -21,22 +21,22 @@ I have developed projects like **SkillForge (AI Career Planner)** and **Quizify 
 
 ### **SkillForge – AI Career Planner**
 A MERN + AI platform that generates personalized roadmaps, analyzes resumes, and helps students plan their careers effectively.  
-🔗 **GitHub Repo:** *#*  
-🌐 **Live Demo:** *http://skill-forge-bice-seven.vercel.app/*
+🔗 **GitHub Repo:** https://github.com/furqan-uddin/SkillForge  
+🌐 **Live Demo:** http://skill-forge-bice-seven.vercel.app/
 
 ---
 
 ### **Quizify – Online Quiz & Certification System**
 A quiz platform with authentication, leaderboards, certificates, and category-wise quiz sets.  
-🔗 **GitHub Repo:** *#*  
-🌐 **Live Demo:** *https://quizify-phi.vercel.app/*
+🔗 **GitHub Repo:** https://github.com/furqan-uddin/Minorproject  
+🌐 **Live Demo:** https://quizify-phi.vercel.app/
 
 ---
 
 ### **Portfolio Website**
 A minimal and modern personal portfolio built using React and Tailwind CSS.  
-🔗 **GitHub Repo:** *#*  
-🌐 **Live Site:** *#*
+🔗 **GitHub Repo:** *Add here*  
+🌐 **Live Site:** *Add here*
 
 ---
 
