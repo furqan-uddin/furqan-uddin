@@ -35,8 +35,8 @@ A quiz platform with authentication, leaderboards, certificates, and category-wi
 
 ### **Portfolio Website**
 A minimal and modern personal portfolio built using React and Tailwind CSS.  
-🔗 **GitHub Repo:** *Add here*  
-🌐 **Live Site:** *Add here*
+🔗 **GitHub Repo:** *#*  
+🌐 **Live Site:** *#*
 
 ---
 
