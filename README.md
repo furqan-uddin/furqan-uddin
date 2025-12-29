@@ -35,8 +35,8 @@ A quiz platform with authentication, leaderboards, certificates, and category-wi
 
 ### **Portfolio Website**
 A minimal and modern personal portfolio built using React and Tailwind CSS.  
-🔗 **GitHub Repo:** *#*  
-🌐 **Live Site:** *#*
+🔗 **GitHub Repo:** https://github.com/furqan-uddin/furqan-portfolio  
+🌐 **Live Site:** https://furqan-portfolio-eight.vercel.app/
 
 ---
 
